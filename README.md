@@ -1,6 +1,7 @@
 # Yulu-Inferential-Analysis-and-Hypothesis-Testing
 
-- Performed hypothesis testing to validate business assumptions using statistical methods.
-- Utilized Python libraries, including SciPy and Stats, for comprehensive data-driven decision-making.
-- Conducted t-tests, ANOVA, and chi-square tests to evaluate relationships and significance across multiple variables.
-- Provided actionable recommendations based on robust statistical evidence to support key business strategies.
+- Problem Statement: Analyze factors influencing the demand for shared electric cycles and improve revenue.
+- Target Metrics: Identify key predictors of demand and validate business assumptions.
+- Approach: Conducted t-tests, ANOVA, and chi-square tests using statistical methods to evaluate relationships and significance.
+- Skills Used: Python, SciPy, Stats, Hypothesis Testing, Statistical Analysis.
+- Outcome: Provided actionable insights backed by robust statistical evidence to support business strategies.
